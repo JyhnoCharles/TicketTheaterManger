@@ -1,4 +1,11 @@
 # TicketTheaterManger
+
+Overview:
+Theater Ticket Manager is a Java-based desktop application created for our CS 499 Senior Project. Designed for two public venues at the Huntsville Civic Center, it lets non-profit groups handle ticket sales and seat assignments without double-booking. The program offers separate dashboards for everyday patrons and administrators, supports one-off reservations and full-season tickets, and can be configured to match each organization’s pricing and seating policies. Built with standard Java and Swing, it runs on both Windows and macOS and includes basic data-export tools so ticket and sales records can be used in other systems.
+
+
+
+
 Requirements:
 JDK 24
 Maven
